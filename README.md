@@ -1,9 +1,9 @@
 
-# Taskydone - A Simple To-Do List App #
+# 📝 Taskydone - A Simple To-Do List App #
 
 Welcome to Taskydone, a minimalist to-do list application built with vanilla JavaScript and styled using Tailwind CSS. This project is designed to help you manage your tasks efficiently while providing a clean and user-friendly interface.
 
-▎Features
+## Features
 
 • Add, Edit, and Delete Todos: Easily manage your tasks by adding new items, editing existing ones, or removing them when they're no longer needed.
 
@@ -13,14 +13,11 @@ Welcome to Taskydone, a minimalist to-do list application built with vanilla Jav
 
 • Local Storage: All changes are saved in the browser's local storage, ensuring that your tasks persist even after refreshing the page.
 
-▎Getting Started
+## Getting Started
 
-To get started with Taskydone, simply clone the repository and open the index.html file in your browser. You can also customize the styles and functionality as per your preferences.
+live : https://taskidone.netlify.app
 
-git clone https://github.com/yourusername/taskydone.git
-cd taskydone
-open index.html
-▎Technologies Used
+## Technologies Used
 
 • HTML: For the structure of the application.
 
@@ -28,7 +25,7 @@ open index.html
 
 • JavaScript: Vanilla JS for dynamic functionalities and local storage management.
 
-▎Contributing
+## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
