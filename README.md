@@ -1,4 +1,4 @@
-# Taskidone (ToDo-List app)
+
 ▎Taskydone - A Simple To-Do List App
 
 Welcome to Taskydone, a minimalist to-do list application built with vanilla JavaScript and styled using Tailwind CSS. This project is designed to help you manage your tasks efficiently while providing a clean and user-friendly interface.
